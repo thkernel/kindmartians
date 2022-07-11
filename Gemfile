@@ -11,6 +11,7 @@ gem 'rails', '~> 6.1.4'
 #gem 'puma', '~> 5.0'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
+gem 'sassc', '~> 2.0', '>= 2.0.1'
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
@@ -71,7 +72,7 @@ gem 'font_awesome5_rails'
 
 gem 'pg', '~> 1.1', '>= 1.1.4'
 gem 'pg_search', '~> 2.3'
-gem 'sassc', '~> 2.0', '>= 2.0.1'
+
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 #gem 'bootstrap', '~> 5.0', '>= 5.0.1'
 
@@ -84,8 +85,6 @@ gem 'grape', '~> 1.2', '>= 1.2.5'
 gem 'rack-cors', '~> 1.1'
 gem 'grape-active_model_serializers', '~> 1.5', '>= 1.5.2'
 gem 'devise_token_auth'
-
-
 
 
 gem 'rails-i18n', '~> 6.0'
