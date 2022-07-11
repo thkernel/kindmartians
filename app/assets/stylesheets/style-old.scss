@@ -1,0 +1,43 @@
+section {
+    margin: 0 auto 2rem;
+    padding: 1rem 0 0;
+    text-align: center;
+}
+section {
+    display: block;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h1 {
+    font-weight: normal;
+    line-height: 2.8rem;
+    font-size: 2.5rem;
+    letter-spacing: -1px;
+    color: black;
+}
+
+.welcome {
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+}
+body {
+    font-family: Georgia, sans-serif;
+    line-height: 2rem;
+    font-size: 1.3rem;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto 40px;
+    overflow: hidden;
+}
