@@ -1,4 +1,4 @@
-APPLICATION_NAME = "iKataxi"
+APPLICATION_NAME = "KindMartians"
 APPLICATION_SLOGAN = "Commandez votre taxi en toute sécurité!"
 APPLICATION_DESCRIPTION = "Plateforme de reservation de taxi à Bamako."
 APPLICATION_KEYWORDS = [""]
